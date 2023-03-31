@@ -1,6 +1,6 @@
 Name:		texlive-hang
 Version:	43280
-Release:	1
+Release:	2
 Summary:	Environments for hanging paragraphs and list items
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hang
