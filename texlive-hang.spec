@@ -3,7 +3,7 @@ Version:	43280
 Release:	2
 Summary:	Environments for hanging paragraphs and list items
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hang
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hang
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hang.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hang.doc.r%{version}.tar.xz
